@@ -11,6 +11,7 @@
     // "noEmit": true,
     // Enable strictest settings like strictNullChecks & noImplicitAny.
     "strict": true,
+    "forceConsistentCasingInFileNames": true,
     // Import non-ES modules as default imports.
     "esModuleInterop": true,
     // Ensure that .d.ts files are created by tsc, but not .js files
